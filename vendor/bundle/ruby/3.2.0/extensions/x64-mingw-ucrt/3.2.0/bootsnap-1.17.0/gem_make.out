@@ -1,0 +1,19 @@
+current directory: Z:/proyectos/ruby/blog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: Z:/proyectos/ruby/blog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231109-25188-wrsvux sitelibdir\=./.gem.20231109-25188-wrsvux clean
+
+current directory: Z:/proyectos/ruby/blog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231109-25188-wrsvux sitelibdir\=./.gem.20231109-25188-wrsvux
+generating bootsnap-x64-mingw-ucrt.def
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: Z:/proyectos/ruby/blog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231109-25188-wrsvux sitelibdir\=./.gem.20231109-25188-wrsvux install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20231109-25188-wrsvux/bootsnap
+
+current directory: Z:/proyectos/ruby/blog/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.17.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20231109-25188-wrsvux sitelibdir\=./.gem.20231109-25188-wrsvux clean
